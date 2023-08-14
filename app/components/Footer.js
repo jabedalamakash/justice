@@ -35,10 +35,10 @@ const Footer = () => {
 
                 </div>
 
-                <div className='w-full text-center sm:text-left sm:w-[20%]'>
+                <div className='w-full mx-auto text-center sm:text-left sm:w-[20%]'>
                     <h4 className='mb-8 font-bold text-xl'>Subscribe</h4>
                     <p className='mb-5 w-[50%]  text-xl mx-auto sm:w-full '>Subscribe for our latest & Articles. We Wont Give You Spam Mails</p>
-                    <div className='inline-flex text-center sm:text-left'>
+                    <div className='inline-flex px-20 sm:px-0 text-center sm:text-left'>
                         <input type="text" placeholder='Email Address' className='px-5 rounded py-3 ' />
                         <button className='px-5 py-3 rounded bg-[#B68C5A]'>
                             <Image
