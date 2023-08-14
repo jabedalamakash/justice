@@ -8,7 +8,7 @@ const garabond = EB_Garamond({
 
 const Faq = () => {
     return (
-        <div className='w-full mb-40 sm:w-[80%] mx-auto'>
+        <div className='w-full mb-40 sm:w-[80%] px-5 mx-auto'>
 
             <h1 className={`${garabond.className} font-bold mb-5 text-center  text-5xl`}> Frequently Asked Any Questions</h1>
             <p className='text-center text-xl mb-20 sm:mb-40 w-[100%] sm:w-[50%] mx-auto'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
@@ -63,7 +63,7 @@ const Faq = () => {
                 </div>           
             
 
-                <div className='w-1/2'>
+                <div className='sm:w-1/2 w-full'>
                     <Image
                     
                     src={"/images/faq.png"}

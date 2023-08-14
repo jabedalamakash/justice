@@ -5,7 +5,7 @@ import React from 'react';
 const Nav = () => {
     return (
       <main>
-            <div className='w-full sm:w-[80%] px-0 mt-20 mb-40 sm:mb-20 mx-auto'>
+            <div className='w-full sm:w-[80%] mt-20 mb-40 sm:mb-20 mx-auto'>
 
                   <div className="navbar w-full sm:max-w-screen-xl mx-auto " >
                     <div className="navbar-start ">
@@ -54,9 +54,9 @@ const Nav = () => {
                           <li className=' active:text-[#B68C5A] hover:text-[#B68C5A]'><Link href="/contactus">Contact Us <span className='text-2xl'>&#10095;</span></Link></li>
                       </ul>
                     </div>
-                    <div className="navbar-end mr-0">
+                    <div className="navbar-end sm:ml-0 ml-2 mr-0">
                     
-                      <button className='bg-[#B68C5A] rounded text-white px-5 mr-0 py-3 font-bold text-xl'><Link href="/">Free Consultation</Link></button>
+                      <button className='bg-[#B68C5A] rounded text-white px-5 mr-0 py-3 font-bold text-xl'><Link href="/contactus">Free Consultation</Link></button>
                       
                     </div>
                   </div>
