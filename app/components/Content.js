@@ -29,7 +29,7 @@ const Content = () => {
                     <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
-                    src={"/images/frame.png"}
+                    src={"/images/Frame.png"}
                     height={40}
                     width={40}
                     alt="pic"
@@ -49,7 +49,7 @@ const Content = () => {
                     <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
-                    src={"/images/frame.png"}
+                    src={"/images/Frame.png"}
                     height={40}
                     width={40}
                     alt="pic"
@@ -69,7 +69,7 @@ const Content = () => {
                     <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
-                    src={"/images/frame.png"}
+                    src={"/images/Frame.png"}
                     height={40}
                     width={40}
                     alt="pic"
@@ -88,9 +88,9 @@ const Content = () => {
                     <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Education Law</h4>
                     <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
-                        
+
                     <Image
-                    src={"/images/frame.png"}
+                    src={"/images/Frame.png"}
                     height={40}
                     width={40}
                     alt="pic"
@@ -112,7 +112,7 @@ const Content = () => {
                     <p>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
-                    src={"/images/frame.png"}
+                    src={"/images/Frame.png"}
                     height={40}
                     width={40}
                     alt="pic"
@@ -132,7 +132,7 @@ const Content = () => {
                     <p>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
-                    src={"/images/frame.png"}
+                    src={"/images/Frame.png"}
                     height={100}
                     width={100}
                     alt="pic"
