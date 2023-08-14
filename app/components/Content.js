@@ -26,14 +26,14 @@ const Content = () => {
                     className='mx-auto mb-10 w-16'
                     />
                     <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Business Law</h4>
-                    <p>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
+                    <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
                     src={"/images/frame.png"}
-                    height={100}
-                    width={100}
+                    height={40}
+                    width={40}
                     alt="pic"
-                    className='mx-auto mt-10 w-10'/>
+                    className='mx-auto h-full w-full'/>
                     </button>
 
                 </div>
@@ -46,14 +46,14 @@ const Content = () => {
                     alt="pic"
                     className='mx-auto mb-10 w-16'/>
                     <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Criminal Law</h4>
-                    <p>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
+                    <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
                     src={"/images/frame.png"}
-                    height={100}
-                    width={100}
+                    height={40}
+                    width={40}
                     alt="pic"
-                    className='mx-auto mt-10 w-10'/>
+                    className='mx-auto h-full  w-full'/>
                     </button>
 
                 </div>
@@ -66,14 +66,14 @@ const Content = () => {
                     alt="pic"
                     className='mx-auto mb-10 w-16'/>
                     <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Child Supports</h4>
-                    <p>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
+                    <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
                     src={"/images/frame.png"}
-                    height={100}
-                    width={100}
+                    height={40}
+                    width={40}
                     alt="pic"
-                    className='mx-auto mt-10 w-10'/>
+                    className='mx-auto h-full w-full'/>
                     </button>
 
                 </div>
@@ -85,15 +85,15 @@ const Content = () => {
                     width={100}
                     alt="pic"
                     className='mx-auto mb-10 w-16'/>
-                    <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Education Laws</h4>
-                    <p>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
+                    <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Education Law</h4>
+                    <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
                     <Image
                     src={"/images/frame.png"}
-                    height={100}
-                    width={100}
+                    height={40}
+                    width={40}
                     alt="pic"
-                    className='mx-auto mt-10 w-10'/>
+                    className='mx-auto h-full w-full'/>
                     </button>
 
                     </div>
@@ -112,10 +112,10 @@ const Content = () => {
                     <button>
                     <Image
                     src={"/images/frame.png"}
-                    height={100}
-                    width={100}
+                    height={40}
+                    width={40}
                     alt="pic"
-                    className='mx-auto mt-10 w-10'/>
+                    className='mx-auto h-full mt-10 w-full'/>
                     </button>
 
                     </div>
@@ -123,8 +123,8 @@ const Content = () => {
                     <div className=' text-center border-b-2 sm:border-b-0  hover:bg-[#f5f5f5] p-20'>
                     <Image
                     src={"/images/tax.png"}
-                    height={100}
-                    width={100}
+                    height={40}
+                    width={40}
                     alt="pic"
                     className='mx-auto mb-5 w-16'/>
                     <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Tax Law</h4>
@@ -135,7 +135,7 @@ const Content = () => {
                     height={100}
                     width={100}
                     alt="pic"
-                    className='mx-auto mt-10 w-10'/>
+                    className='mx-auto h-full mt-10 w-full'/>
                     </button>
                   
 
