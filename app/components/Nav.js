@@ -5,7 +5,7 @@ import React from 'react';
 const Nav = () => {
     return (
       <main>
-            <div className='w-full sm:w-[80%] px-0 mt-20 mb-40 sm:20 mx-auto'>
+            <div className='w-full sm:w-[80%] px-0 mt-20 mb-40 sm:mb-20 mx-auto'>
 
                   <div className="navbar w-full sm:max-w-screen-xl mx-auto " >
                     <div className="navbar-start ">
