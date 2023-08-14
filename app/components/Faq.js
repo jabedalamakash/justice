@@ -11,13 +11,13 @@ const Faq = () => {
         <div className='w-full mb-40 sm:w-[80%] mx-auto'>
 
             <h1 className={`${garabond.className} font-bold mb-5 text-center  text-5xl`}> Frequently Asked Any Questions</h1>
-            <p className='text-center text-xl mb-20 sm:mb-40 w-[70%] sm:w-[50%] mx-auto'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
+            <p className='text-center text-xl mb-20 sm:mb-40 w-[100%] sm:w-[50%] mx-auto'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.</p>
             
             <div className='flex justify-center items-center sm:items-start sm:justify-start mx-auto flex-col sm:flex-row'>
 
 
 
-                 <div className='sm:w-1/2 w-full px-20 sm:px-0 mb-20 sm:mr-20'>
+                 <div className='sm:w-1/2 w-full px-5 sm:px-0 mb-20 sm:mr-20'>
 
                         <div className="collapse mb-10 p-10 collapse-plus bg-[#f3f3f3]">
                         <input type="radio" name="my-accordion-3" checked="checked" /> 

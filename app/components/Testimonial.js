@@ -11,7 +11,7 @@ const garabond = EB_Garamond({
 const Testimonial = () => {
     return (
         <div>
-            <main className='w-full sm:w-[80%] mx-auto px-20 sm:px-0 mb-40'>
+            <main className='w-full sm:w-[80%] mx-auto px-5 sm:px-0 mb-40'>
                 <h1 className={`${garabond.className} font-bold mb-5 text-center  text-5xl`}>What Our Client Say</h1>
                 <p className='text-center text-xl sm:w-[50%] mb-20 mx-auto'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, rem deserunt autem officiis architecto corrupti id dolor aperiam eveniet, voluptatum porro explicabo.</p>
 
