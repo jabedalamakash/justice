@@ -1,9 +1,10 @@
 import React from 'react';
+import Testimonial from '../components/Testimonial';
 
 const page = () => {
     return (
         <div>
-            cases
+            <Testimonial/>
         </div>
     );
 };
