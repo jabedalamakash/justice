@@ -17,16 +17,16 @@ const Nav = () => {
                           <li className='text-xl font-bold  hover:text-[#B68C5A]'>
                             <Link href="/">Home </Link></li>
                           <li className='text-xl font-bold  hover:text-[#B68C5A]'>
-                            <Link href="/services">Services</Link>
+                            <Link href="/services">Services  &#10095;</Link>
                             </li>
                           <li className='text-xl font-bold  hover:text-[#B68C5A]'>
-                            <Link href="/cases">Cases </Link>
+                            <Link href="/cases">Cases  &#10095; </Link>
                             </li>
                           <li className='text-xl font-bold hover:text-[#B68C5A]'>
-                            <Link href="/blog">Blog</Link>
+                            <Link href="/blog">Blog  &#10095;</Link>
                           </li>
                           <li className='text-xl font-bold hover:text-[#B68C5A]'>
-                            <Link href="/contactus">Contact Us </Link>
+                            <Link href="/contactus">Contact Us  &#10095; </Link>
                             
                             </li>
                           

@@ -19,10 +19,10 @@ const Footer = () => {
                 <div className='flex flex-col text-center sm:text-left w-full sm:w-[10%] mb-5 sm:mb-0 sm:mr-10'>
                     <h4 className='mb-8 font-bold text-xl'>Useful Links</h4>
                     <Link href="/" className='mb-2'>Home</Link>
-                    <Link href="/" className='mb-2'>Services</Link>
-                    <Link href="/" className='mb-2'>Cases</Link>
-                    <Link href="/" className='mb-2'>Blog</Link>
-                    <Link href="/" className='mb-2'>Contact Us &#10095;</Link>
+                    <Link href="/services" className='mb-2'>Services  &#10095;</Link>
+                    <Link href="/cases" className='mb-2'>Cases  &#10095;</Link>
+                    <Link href="/blog" className='mb-2'>Blog  &#10095;</Link>
+                    <Link href="/contactus" className='mb-2'>Contact Us &#10095;</Link>
                    
 
                 </div>
