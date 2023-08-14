@@ -88,6 +88,7 @@ const Content = () => {
                     <h4 className={`${garabond.className} font-bold mb-10  text-5xl`}>Education Law</h4>
                     <p className='mb-10'>There are many variations ofpassages of Lorem Ipsumavailable, but the majority havesuffered alteration in some form, by injected humour.</p>
                     <button>
+                        
                     <Image
                     src={"/images/frame.png"}
                     height={40}
