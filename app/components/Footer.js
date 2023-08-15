@@ -43,10 +43,10 @@ const Footer = () => {
                         <button className='px-5 py-3 rounded bg-[#B68C5A]'>
                             <Image
                              src={"/images/Vector.png"}
-                             height={100}
-                             width={100}
+                             height={20}
+                             width={20}
                              alt="button"
-                             className='text-white w-5 h-5'/>
+                             className='text-white w-full h-full'/>
                         </button>
                     </div>
                 </div>
