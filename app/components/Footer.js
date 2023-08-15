@@ -38,7 +38,7 @@ const Footer = () => {
                 <div className='w-full overflow-hidden mx-auto text-center sm:text-left sm:w-[20%]'>
                     <h4 className='mb-8 font-bold text-xl'>Subscribe</h4>
                     <p className='mb-5 w-[50%]  text-xl mx-auto sm:w-full '>Subscribe for our latest & Articles. We Wont Give You Spam Mails</p>
-                    <div className='inline-flex w-[70%] px-10 sm:px-0 box-border sm:w-full sm:justify-start text-center justify-center sm:text-left'>
+                    <div className='inline-flex w-[70%] px-5 sm:px-0 box-border sm:w-full sm:justify-start text-center justify-center sm:text-left'>
                         <input type="text" placeholder='Email Address' className='px-5 w-full rounded py-3 ' />
                         <button className='px-5 py-3 rounded bg-[#B68C5A]'>
                             <Image
