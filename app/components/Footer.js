@@ -35,7 +35,7 @@ const Footer = () => {
 
                 </div>
 
-                <div className='w-full mx-auto text-center sm:text-left sm:w-[20%]'>
+                <div className='w-full overflow-hidden mx-auto text-center sm:text-left sm:w-[20%]'>
                     <h4 className='mb-8 font-bold text-xl'>Subscribe</h4>
                     <p className='mb-5 w-[50%]  text-xl mx-auto sm:w-full '>Subscribe for our latest & Articles. We Wont Give You Spam Mails</p>
                     <div className='inline-flex w-[70%] box-border sm:w-full sm:justify-start text-center justify-center sm:text-left'>
